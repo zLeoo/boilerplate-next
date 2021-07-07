@@ -1,8 +1,7 @@
 import Head from 'next/head';
 
 export default function Home() {
-  const a = 'oi';
-  const b = 'oi';
+  //const a = 'oi';
 
   return (
     <div>
